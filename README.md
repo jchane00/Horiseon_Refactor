@@ -1,8 +1,8 @@
 # Jarmaris's Module 1 Challenge
 
-![](Horiseon_Refactor/Develop/assets/images/Horiseon%20Webpage.png)
+<img src="Develop/assets/images/Horiseon%20Webpage.png">
 
-This project provides increased website accessibility for the clients of Horiseon Marketing Agency.
+This project (https://jchane00.github.io/Horiseon_Refactor/) provides increased website accessibility for the clients of Horiseon Marketing Agency.
 
 I refactored Horiseon's existing code to include semantic elements, attributes, etc., in order to increase the accessibility of the site.
 
