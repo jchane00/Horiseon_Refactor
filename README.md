@@ -1,4 +1,6 @@
-Jarmaris's Module 1 Challenge
+# Jarmaris's Module 1 Challenge
+
+![](Horiseon_Refactor/Develop/assets/images/Horiseon%20Webpage.png)
 
 This project provides increased website accessibility for the clients of Horiseon Marketing Agency.
 
